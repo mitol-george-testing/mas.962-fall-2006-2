@@ -1,0 +1,35 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Engineering",
+      "Computer Science",
+      "Human-Computer Interfaces"
+    ],
+    [
+      "Science",
+      "Cognitive Science"
+    ],
+    [
+      "Fine Arts",
+      "Media Studies"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "c91ce378-adf8-ef81-4750-22d198f289c2"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Common Sense Reasoning for Interactive Applications",
+  "course_description": "This course will explore the state of the art in common sense knowledge, and class projects will design and build interfaces that can exploit this knowledge to make more usable and helpful interfaces.\n\nThis year's theme will be about how common sense knowledge differs in different languages and cultures, and how machine understanding of this knowledge can help increase communication between people, and between people and machines.\n",
+  "department_numbers": [
+    "MAS"
+  ],
+  "extra_course_numbers": "MAS.964",
+  "primary_course_number": "MAS.962",
+  "learning_resource_types": [
+    "Projects with Examples"
+  ],
+  "title": "Course Metadata"
+}
